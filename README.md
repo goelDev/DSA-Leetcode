@@ -10,5 +10,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/goelDev/DSA-Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+## Array
+|  |
+| ------- |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
