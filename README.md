@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/goelDev/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
