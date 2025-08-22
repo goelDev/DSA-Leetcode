@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
