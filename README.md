@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -42,10 +43,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
