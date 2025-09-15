@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/goelDev/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/goelDev/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/goelDev/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
