@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/goelDev/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/goelDev/DSA-Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/goelDev/DSA-Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/goelDev/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
