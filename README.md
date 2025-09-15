@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/goelDev/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/goelDev/DSA-Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/goelDev/DSA-Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -85,8 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
