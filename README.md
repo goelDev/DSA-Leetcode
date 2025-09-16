@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/goelDev/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/goelDev/DSA-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/goelDev/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/goelDev/DSA-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/goelDev/DSA-Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/goelDev/DSA-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/goelDev/DSA-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/goelDev/DSA-Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
