@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/goelDev/DSA-Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/goelDev/DSA-Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/goelDev/DSA-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/goelDev/DSA-Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3778-transform-array-by-parity](https://github.com/goelDev/DSA-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/goelDev/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/goelDev/DSA-Leetcode/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
