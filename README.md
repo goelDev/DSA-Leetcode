@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/goelDev/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/goelDev/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/goelDev/DSA-Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/goelDev/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/goelDev/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/goelDev/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/goelDev/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0587-erect-the-fence](https://github.com/goelDev/DSA-Leetcode/tree/master/0587-erect-the-fence) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/goelDev/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/goelDev/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/goelDev/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1829-maximum-units-on-a-truck](https://github.com/goelDev/DSA-Leetcode/tree/master/1829-maximum-units-on-a-truck) |
