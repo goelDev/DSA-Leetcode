@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/goelDev/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/goelDev/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/goelDev/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/goelDev/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/goelDev/DSA-Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/goelDev/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/goelDev/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1205-defanging-an-ip-address](https://github.com/goelDev/DSA-Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/goelDev/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/goelDev/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/goelDev/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/goelDev/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/goelDev/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/goelDev/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1829-maximum-units-on-a-truck](https://github.com/goelDev/DSA-Leetcode/tree/master/1829-maximum-units-on-a-truck) |
